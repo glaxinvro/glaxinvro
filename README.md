@@ -23,8 +23,8 @@ I'am Programmer who lives in Pakistan, I Use to code Discord Bots, Websites, And
 
 ### 📊 Stats
 
-![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=reallyumair&show_icons=true&theme=gruvbox)
+![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaxinvro&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=reallyumair&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=glaxinvro&theme=gruvbox&border_radius=4.5) -->
 
 #
